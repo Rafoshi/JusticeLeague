@@ -1,5 +1,5 @@
 ## JusticeLeague 🦸‍
- **#A C# Form application utilizing MySql Crud**
+ **#C# Form application utilizing MySql Crud**
 
  ## Installation ⚙
 
